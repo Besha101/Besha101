@@ -1,16 +1,32 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Besha101/Besha101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in Sarajevo, Bosnia and Herzegovina.
+- 🎓 Currently a student at International Burch University.
+- 💼 As a student, I'm dedicated to learning and exploring new technologies.
+- 🌱 I'm enthusiastic about Java and actively improving my skills in this language.
+- 🤝 I'm open to collaborations and contributions.
+
+
+## Get in Touch
+
+- 💬 Feel free to reach out to me through my [Instagram](https://www.instagram.com/_ajdin_b/) or [Facebook](https://www.facebook.com/profile.php?id=100093834042226) profiles.
+- 📧 You can also shoot me an email at [ajdin.besicc@gmail.com].
+
+
+## Languages and Tools
+
+Here are some of the technologies and tools I'm familiar with:
+
+- Java
+- C++
+- Python
+
+
+Let's connect and make things happen together! 😄
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/Besha101/count.svg)
