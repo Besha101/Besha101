@@ -12,7 +12,7 @@
 
 ## Get in Touch
 
-- 💬 Feel free to reach out to me through my [Instagram](https://www.instagram.com/_ajdin_b/) or [Facebook](https://www.facebook.com/profile.php?id=100093834042226) profiles.
+- 💬 Feel free to reach out to me through my [Instagram](https://www.instagram.com/_ajdin_b/) or [LinkedIn]([https://www.linkedin.com/in/ajdin-besic-85b83b265/]) profiles.
 - 📧 You can also shoot me an email at [ajdin.besicc@gmail.com].
 
 
