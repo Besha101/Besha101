@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Besha101&show_icons=true&theme=radical)](https://github.com/Besha101/github-readme-stats&theme=tokyonight)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Besha101&show_icons=true&theme=radical"/>
 
 ## About Me
 
