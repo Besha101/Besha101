@@ -1,18 +1,15 @@
 # Welcome to My GitHub Profile! 👋
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Besha101&show_icons=true&theme=radical&show=prs_merged_percentage"/>
-<img alt="top lang" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Besha101&theme=radical&layout=compact&langs_count=4"/>
+<a href="https://github.com/Besha101/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Besha101&theme=radical&rank_icon=github" />
+</a>
+<a href="https://github.com/Besha101/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Besha101&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 
 ## About Me
 
